@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
   <link rel="stylesheet" href="style.css">
+<style>
 :root {
     --primary: #43a047;
     --primary-dark: #2e7d32;
@@ -1051,7 +1052,7 @@ box-shadow: 0 0 5px rgba(255, 0, 0, 0.5);
     margin-right: 0;
     margin-bottom: 0.8rem;
   }
-}
+</style>
 </head>
 <body>
   <header class="animate__animated animate__fadeIn">
